@@ -66,7 +66,7 @@ public class Main {
         int deysOptionTwo=numberOfGrams/optionTwo;
         double averageValue=(optionOne+optionTwo)/2;
         double deysAverageValue=numberOfGrams/averageValue; //исправить на float!!!!!!!!!!!!
-        System.out.println(deysOptionOne+" "+deysOptionTwo+" "+deysAverageValue);
+        System.out.println("Если по 250 грамм, то "+deysOptionOne+" Если по 500 грамм, то "+deysOptionTwo+" Среднее количество "+deysAverageValue);
 
         int masha=67760;
         int denis=83690;
@@ -84,8 +84,8 @@ public class Main {
         int dIncomeDifference=dPOneE-dOneE;
         int kIncomeDifference=kPOneE-kOneE;
         System.out.println("Маша теперь получает "+mPercent+" рублей. Годовой доход вырос на "+mIncomeDifference+" рублей");
-        System.out.println("Денис теперь получает "+dPercent+" рублей. Годовой доход вырос на "+dIncomeDifference+" рублей");
-        System.out.println("Кристина теперь получает "+kPercent+" рублей. Годовой доход вырос на "+kIncomeDifference+" рублей");
+        System.out.println("Денис теперь получает "+dPercent+" рублей. Годовой доход вырос на "+dIncomeDifference+" рублей.");
+        System.out.println("Кристина теперь получает "+kPercent+" рублей. Годовой доход вырос на "+kIncomeDifference+" рублей.");
 
 
     }
