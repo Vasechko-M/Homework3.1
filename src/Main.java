@@ -84,7 +84,7 @@ public class Main {
         int dIncomeDifference=dPOneE-dOneE;
         int kIncomeDifference=kPOneE-kOneE;
         System.out.println("Маша теперь получает "+mPercent+" рублей. Годовой доход вырос на "+mIncomeDifference+" рублей");
-        System.out.println("Денис теперь получает "+dPercent+" рублей. Годовой доход вырос на "+dIncomeDifference+" рублей");
+        System.out.println("Денис теперь получает "+dPercent+" рублей. Годовой доход вырос на "+dIncomeDifference+" рублей.");
         System.out.println("Кристина теперь получает "+kPercent+" рублей. Годовой доход вырос на "+kIncomeDifference+" рублей.");
 
 
